@@ -7,7 +7,7 @@ class Chat extends Component {
   };
 
   voltar(){
-    this.context.router.push('/approved');
+    this.context.router.push('/home');
   }
 
   render() {

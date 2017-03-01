@@ -4,7 +4,7 @@ import { Route, IndexRoute } from 'react-router';
 import App from './components/app';
 import Home from './components/home';
 import Approved from './components/approveds';
-import Rejected from './components/reject';
+import Rejected from './components/rejecteds';
 import Chat from './components/chat';
 
 export default (
