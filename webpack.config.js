@@ -40,6 +40,9 @@ const config = {
     historyApiFallback: true
   }
 }
+
+
+
 module.exports = config;
 
 
